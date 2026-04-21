@@ -29,6 +29,6 @@ print("Words without 'e':", l1)
 
 
 ## Result:
-Thus the program that filters out and returns all the elementsfrom a list using regex is executed successfully.
+Thus the program that filters out and returns all the elements from a list using regex is executed successfully.
 
 
